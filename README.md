@@ -1,10 +1,9 @@
 # LLM API Project
 
-## 📌 Описание
+ Описание
 API для модели машинного обучения (LLM), реализованный с помощью FastAPI.
 
-## 🚀 Запуск
-
+ Запуск
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
